@@ -1,5 +1,5 @@
-# Full_Adder_Verification
-This project implements a 1-bit Full Adder using verilog and verifies its functionality
+##Full_Adder_Verification
+This project implements a 1-bit Full Adder using verilog and verifies its functionality.
 
 ## Files
 - full_adder.v : Adder design
