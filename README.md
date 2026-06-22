@@ -6,7 +6,7 @@ This project implements a 1-bit Full Adder using verilog and verifies its functi
 - full_adder_tb.v : Testbench
 - waveforms/full_adder.vcd
 - README.md
-- 
+
 ## Inputs
 - a
 - b
