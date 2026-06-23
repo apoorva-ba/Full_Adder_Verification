@@ -34,4 +34,4 @@ This project implements a 1-bit Full Adder using verilog and verifies its functi
 
 ## Author 
 
-Apoorva B A
+Apoorva B A ECE Student
